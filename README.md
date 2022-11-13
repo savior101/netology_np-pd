@@ -3,3 +3,4 @@
 #### Селезенев Антон, группа DEG-17
 
 1. [Раздел "Библиотека numpy. Вычислительные задачи"](https://github.com/savior101/netology_np-pd/tree/main/7.1_numpy)
+2. [Раздел "Библиотека Pandas"](https://github.com/savior101/netology_np-pd/tree/main/7.2_pandas_1)
